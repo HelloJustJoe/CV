@@ -2,18 +2,15 @@
 
 ## Contact Information
 - Location: London | Mexico City
-- Phone: 07516 306 457
-- Email: [hellojustjoe@gmail.com](mailto:hellojustjoe@gmail.com)
+- Email: [joevincent@protonmail.com](mailto:joevincent@protonmail.com)
 - Portfolio: [hellojustjoe.github.io](https://hellojustjoe.github.io)
 
 ## About Me
-A tech-enthusiast with a diverse background in GIS data analysis, hospitality, and personal training. 
-Known for building strong rapport with clients and colleagues alike. Transitioning into a full-time data science and analytics role, 
-leveraging comprehensive education in data science and hands-on experience in data analysis and client support.
+A tech-enthusiast with a diverse background in GIS data analysis, hospitality, and personal training. Known for building strong rapport with clients and colleagues alike. Looking to leverage comprehensive education in data science and hands-on experience in data analysis and client support to move from freelancing into full-time employment
 
 ## Education & Certifications
 
-### 2021-24: Certificate of HE in Data Analysis
+- Certificate of HE in Data Analysis - In Progress
 - Le Wagon Data Science & AI Bootcamp
 - Google Professional Data Analytics Course: Coursera
 - Data Technician Apprenticeship: JustIT
@@ -25,6 +22,9 @@ leveraging comprehensive education in data science and hands-on experience in da
 - Microsoft Power BI Desktop for Business Intelligence: Udemy
 
 ## Professional Experience
+
+### Freelance tutoring, web development, and analysis
+- Currently performing variety of roles while completing personal passion projects
 
 ### 2021-2023: InSite Analyst & Consultant, CACI Ltd
 - Provided client support and data analysis for GIS-based clients using proprietary InSite Software.
@@ -46,4 +46,4 @@ leveraging comprehensive education in data science and hands-on experience in da
 - Newly learning salsa dancing.
 - Avid cook, enjoying experimenting with diverse cuisines and recipes.
 - Spanish language learner (A2 DELE standard).
-- Playing the guitar and singing along poorly!
+- Playing the guitar and singing out-of-tune.

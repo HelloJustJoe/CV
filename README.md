@@ -6,44 +6,36 @@
 - Portfolio: [hellojustjoe.github.io](https://hellojustjoe.github.io)
 
 ## About Me
-A tech-enthusiast with a diverse background in GIS data analysis, hospitality, and personal training. Known for building strong rapport with clients and colleagues alike. Looking to leverage comprehensive education in data science and hands-on experience in data analysis and client support to move from freelancing into full-time employment
+Detail-oriented data scientist with hands-on experience in GIS analysis, client support, and data visualization. Proficient in Python, SQL, and Tableau, with a strong background in delivering actionable insights for business growth. Known for clear communication, client training, and fostering collaborative environments. Seeking to transition from freelancing to a full-time role to drive data-driven decisions and innovation.
+
+## Skills
+- Proficient in Excel, Tableau, and Power BI for data manipulation & interactive reporting.
+- Skilled in Python, R, & SQL for statistical modelling, machine learning, & database management.
+- Experienced with HTML, CSS, & JavaScript for building responsive web applications.
 
 ## Education & Certifications
 
-- Certificate of HE in Data Analysis - In Progress
+- Bachelors in Data Science - In Progress
 - Le Wagon Data Science & AI Bootcamp
-- Google Professional Data Analytics Course: Coursera
+- Google Professional Data Analytics Certificate
 - Data Technician Apprenticeship: JustIT
 - Skills Bootcamp in Analysing Data: Babington
 - freeCodeCamp: Responsive Web Design Certificate
-- CompTIA: A+ and Project+; currently studying for Networking+ and Security+
-- Excel from Beginner to Advanced: Udemy
-- Microsoft Excel 2019: uCertify
+- CompTIA: A+ and Project+
 - Microsoft Power BI Desktop for Business Intelligence: Udemy
+ 
 
 ## Professional Experience
 
 ### Freelance tutoring, web development, and analysis
-- Currently performing variety of roles while completing personal passion projects
+Provided tutoring in Python and data analysis, helping students master machine learning fundamentals. Developed web applications using HTML, CSS, and JavaScript, improving client online visibility.Conducted ad-hoc data analysis projects using SQL and Tableau, delivering actionable insights.
 
 ### 2021-2023: InSite Analyst & Consultant, CACI Ltd
-- Provided client support and data analysis for GIS-based clients using proprietary InSite Software.
-- Skilled in dashboarding tools, SQL, and database management and manipulation.
-- Facilitated weekly two-day training sessions for clients on InSite software, in-house data products, and geographic and demographic data analysis.
-- Demonstrated strong soft skills in communication, training, and client engagement.
+Delivered comprehensive client support and conducted in-depth data analysis for GIS-based projects using proprietary InSite Software. Utilized SQL and advanced database management techniques to analyze and manipulate geographic and demographic datasets. Developed and maintained interactive dashboards using Tableau and Power BI, streamlining data visualization for clients. Designed and led weekly two-day training sessions, enhancing client proficiency in InSite Software and in-house data products. Fostered strong client relationships through exceptional communication, training, and tailored support, ensuring high customer satisfaction.
 
-### 2013-2019: Freelance Personal Trainer
-- Developed personalized diet and workout regimes for clients.
-- Focused on goal setting, client education, and long-term satisfaction.
+### 2019-2021: Freelance Personal Trainer
+Developed personalized diet & workout regimes for clients. Focused on goal setting, client education, & long-term satisfaction.
 
-### 2019-2021: Career in Hospitality
+### 2013-2019: Career in Hospitality
 - Roles included Assistant Manager, Events Manager, Barman, Chef.
 - Excelled in customer service, client management, staff development, and motivation.
-
-
-## Hobbies
-- Engaged in a variety of physical activities including training for a half triathlon, Tough Mudder, Spartan Race, bouldering, and Brazilian Jiu-Jitsu (BJJ).
-- Newly learning salsa dancing.
-- Avid cook, enjoying experimenting with diverse cuisines and recipes.
-- Spanish language learner (A2 DELE standard).
-- Playing the guitar and singing out-of-tune.

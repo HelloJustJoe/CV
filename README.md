@@ -37,5 +37,5 @@ Delivered comprehensive client support and conducted in-depth data analysis for 
 Developed personalized diet & workout regimes for clients. Focused on goal setting, client education, & long-term satisfaction.
 
 ### 2013-2019: Career in Hospitality
-- Roles included Assistant Manager, Events Manager, Barman, Chef.
-- Excelled in customer service, client management, staff development, and motivation.
+Roles included Assistant Manager, Events Manager, Barman, Chef.
+Excelled in customer service, client management, staff development, and motivation.
